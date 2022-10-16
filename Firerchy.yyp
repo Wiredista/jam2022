@@ -2,10 +2,12 @@
   "resources": [
     {"id":{"name":"shd_Asteroid","path":"shaders/shd_Asteroid/shd_Asteroid.yy",},"order":2,},
     {"id":{"name":"spr_JogarMenu_Btt","path":"sprites/spr_JogarMenu_Btt/spr_JogarMenu_Btt.yy",},"order":2,},
+    {"id":{"name":"spr_Pause","path":"sprites/spr_Pause/spr_Pause.yy",},"order":6,},
     {"id":{"name":"dragSolid","path":"objects/dragSolid/dragSolid.yy",},"order":2,},
     {"id":{"name":"spr_CabideMenu_Btt","path":"sprites/spr_CabideMenu_Btt/spr_CabideMenu_Btt.yy",},"order":3,},
     {"id":{"name":"solidMask","path":"objects/solidMask/solidMask.yy",},"order":1,},
     {"id":{"name":"obj_VoltarOpcoes_Btt","path":"objects/obj_VoltarOpcoes_Btt/obj_VoltarOpcoes_Btt.yy",},"order":7,},
+    {"id":{"name":"obj_Pause","path":"objects/obj_Pause/obj_Pause.yy",},"order":8,},
     {"id":{"name":"spr_Empty64","path":"sprites/spr_Empty64/spr_Empty64.yy",},"order":1,},
     {"id":{"name":"obj","path":"objects/obj/obj.yy",},"order":0,},
     {"id":{"name":"obj_Asteroid","path":"objects/obj_Asteroid/obj_Asteroid.yy",},"order":3,},
