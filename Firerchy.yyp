@@ -1,17 +1,26 @@
 {
   "resources": [
     {"id":{"name":"shd_Asteroid","path":"shaders/shd_Asteroid/shd_Asteroid.yy",},"order":2,},
+    {"id":{"name":"spr_JogarMenu_Btt","path":"sprites/spr_JogarMenu_Btt/spr_JogarMenu_Btt.yy",},"order":2,},
     {"id":{"name":"dragSolid","path":"objects/dragSolid/dragSolid.yy",},"order":2,},
+    {"id":{"name":"spr_CabideMenu_Btt","path":"sprites/spr_CabideMenu_Btt/spr_CabideMenu_Btt.yy",},"order":3,},
     {"id":{"name":"solidMask","path":"objects/solidMask/solidMask.yy",},"order":1,},
+    {"id":{"name":"obj_VoltarOpcoes_Btt","path":"objects/obj_VoltarOpcoes_Btt/obj_VoltarOpcoes_Btt.yy",},"order":7,},
     {"id":{"name":"spr_Empty64","path":"sprites/spr_Empty64/spr_Empty64.yy",},"order":1,},
     {"id":{"name":"obj","path":"objects/obj/obj.yy",},"order":0,},
     {"id":{"name":"obj_Asteroid","path":"objects/obj_Asteroid/obj_Asteroid.yy",},"order":3,},
     {"id":{"name":"movePhys","path":"scripts/movePhys/movePhys.yy",},"order":0,},
     {"id":{"name":"mask","path":"sprites/mask/mask.yy",},"order":0,},
     {"id":{"name":"Shader2","path":"shaders/Shader2/Shader2.yy",},"order":3,},
-    {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},"order":1,},
+    {"id":{"name":"spr_OpcoesMenu_Btt","path":"sprites/spr_OpcoesMenu_Btt/spr_OpcoesMenu_Btt.yy",},"order":4,},
+    {"id":{"name":"Room_Menu","path":"rooms/Room_Menu/Room_Menu.yy",},"order":1,},
+    {"id":{"name":"spr_VoltarOpcoes_Btt","path":"sprites/spr_VoltarOpcoes_Btt/spr_VoltarOpcoes_Btt.yy",},"order":5,},
+    {"id":{"name":"obj_OpcoesMenu_Btt","path":"objects/obj_OpcoesMenu_Btt/obj_OpcoesMenu_Btt.yy",},"order":6,},
+    {"id":{"name":"Room_Settings","path":"rooms/Room_Settings/Room_Settings.yy",},"order":2,},
     {"id":{"name":"unstuckGround","path":"scripts/unstuckGround/unstuckGround.yy",},"order":2,},
+    {"id":{"name":"obj_JogarMenu_Btt","path":"objects/obj_JogarMenu_Btt/obj_JogarMenu_Btt.yy",},"order":4,},
     {"id":{"name":"followGround","path":"scripts/followGround/followGround.yy",},"order":1,},
+    {"id":{"name":"obj_CabideMenu_Btt","path":"objects/obj_CabideMenu_Btt/obj_CabideMenu_Btt.yy",},"order":5,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -28,8 +37,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"roomId":{"name":"Room_Menu","path":"rooms/Room_Menu/Room_Menu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room_Settings","path":"rooms/Room_Settings/Room_Settings.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
