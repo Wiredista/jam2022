@@ -1,2 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
+angle = 0
+seed = random(100)
+time = 0

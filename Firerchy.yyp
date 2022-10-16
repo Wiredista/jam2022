@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"shd_Asteroid","path":"shaders/shd_Asteroid/shd_Asteroid.yy",},"order":2,},
     {"id":{"name":"dragSolid","path":"objects/dragSolid/dragSolid.yy",},"order":2,},
     {"id":{"name":"solidMask","path":"objects/solidMask/solidMask.yy",},"order":1,},
     {"id":{"name":"spr_Empty64","path":"sprites/spr_Empty64/spr_Empty64.yy",},"order":1,},
@@ -7,9 +8,9 @@
     {"id":{"name":"obj_Asteroid","path":"objects/obj_Asteroid/obj_Asteroid.yy",},"order":3,},
     {"id":{"name":"movePhys","path":"scripts/movePhys/movePhys.yy",},"order":0,},
     {"id":{"name":"mask","path":"sprites/mask/mask.yy",},"order":0,},
+    {"id":{"name":"Shader2","path":"shaders/Shader2/Shader2.yy",},"order":3,},
     {"id":{"name":"unstuckGround","path":"scripts/unstuckGround/unstuckGround.yy",},"order":2,},
     {"id":{"name":"followGround","path":"scripts/followGround/followGround.yy",},"order":1,},
-    {"id":{"name":"shd_Asteroid","path":"shaders/shd_Asteroid/shd_Asteroid.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
