@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_CruzeiroPhase_Btt","path":"sprites/spr_CruzeiroPhase_Btt/spr_CruzeiroPhase_Btt.yy",},"order":10,},
     {"id":{"name":"shd_Asteroid","path":"shaders/shd_Asteroid/shd_Asteroid.yy",},"order":2,},
     {"id":{"name":"spr_JogarMenu_Btt","path":"sprites/spr_JogarMenu_Btt/spr_JogarMenu_Btt.yy",},"order":2,},
     {"id":{"name":"spr_Pause","path":"sprites/spr_Pause/spr_Pause.yy",},"order":6,},
@@ -13,6 +14,7 @@
     {"id":{"name":"spr_Empty64","path":"sprites/spr_Empty64/spr_Empty64.yy",},"order":1,},
     {"id":{"name":"obj","path":"objects/obj/obj.yy",},"order":0,},
     {"id":{"name":"obj_Asteroid","path":"objects/obj_Asteroid/obj_Asteroid.yy",},"order":3,},
+    {"id":{"name":"spr_CancerPhase_Btt","path":"sprites/spr_CancerPhase_Btt/spr_CancerPhase_Btt.yy",},"order":9,},
     {"id":{"name":"movePhys","path":"scripts/movePhys/movePhys.yy",},"order":0,},
     {"id":{"name":"mask","path":"sprites/mask/mask.yy",},"order":0,},
     {"id":{"name":"Shader2","path":"shaders/Shader2/Shader2.yy",},"order":3,},
@@ -20,9 +22,13 @@
     {"id":{"name":"Room_Menu","path":"rooms/Room_Menu/Room_Menu.yy",},"order":1,},
     {"id":{"name":"spr_VoltarOpcoes_Btt","path":"sprites/spr_VoltarOpcoes_Btt/spr_VoltarOpcoes_Btt.yy",},"order":5,},
     {"id":{"name":"obj_OpcoesMenu_Btt","path":"objects/obj_OpcoesMenu_Btt/obj_OpcoesMenu_Btt.yy",},"order":6,},
+    {"id":{"name":"obj_AriesPhase_Btt","path":"objects/obj_AriesPhase_Btt/obj_AriesPhase_Btt.yy",},"order":9,},
+    {"id":{"name":"spr_AriesPhase_Btt","path":"sprites/spr_AriesPhase_Btt/spr_AriesPhase_Btt.yy",},"order":8,},
+    {"id":{"name":"obj_CancerPhase_Btt","path":"objects/obj_CancerPhase_Btt/obj_CancerPhase_Btt.yy",},"order":10,},
     {"id":{"name":"Room_Settings","path":"rooms/Room_Settings/Room_Settings.yy",},"order":2,},
     {"id":{"name":"unstuckGround","path":"scripts/unstuckGround/unstuckGround.yy",},"order":2,},
     {"id":{"name":"obj_JogarMenu_Btt","path":"objects/obj_JogarMenu_Btt/obj_JogarMenu_Btt.yy",},"order":4,},
+    {"id":{"name":"obj_CruzeiroPhase_Btt","path":"objects/obj_CruzeiroPhase_Btt/obj_CruzeiroPhase_Btt.yy",},"order":11,},
     {"id":{"name":"followGround","path":"scripts/followGround/followGround.yy",},"order":1,},
     {"id":{"name":"obj_CabideMenu_Btt","path":"objects/obj_CabideMenu_Btt/obj_CabideMenu_Btt.yy",},"order":5,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
