@@ -8,6 +8,8 @@
     {"id":{"name":"solidMask","path":"objects/solidMask/solidMask.yy",},"order":1,},
     {"id":{"name":"obj_VoltarOpcoes_Btt","path":"objects/obj_VoltarOpcoes_Btt/obj_VoltarOpcoes_Btt.yy",},"order":7,},
     {"id":{"name":"obj_Pause","path":"objects/obj_Pause/obj_Pause.yy",},"order":8,},
+    {"id":{"name":"spr_BackgroundMenu","path":"sprites/spr_BackgroundMenu/spr_BackgroundMenu.yy",},"order":7,},
+    {"id":{"name":"Room_PhaseSelection","path":"rooms/Room_PhaseSelection/Room_PhaseSelection.yy",},"order":3,},
     {"id":{"name":"spr_Empty64","path":"sprites/spr_Empty64/spr_Empty64.yy",},"order":1,},
     {"id":{"name":"obj","path":"objects/obj/obj.yy",},"order":0,},
     {"id":{"name":"obj_Asteroid","path":"objects/obj_Asteroid/obj_Asteroid.yy",},"order":3,},
@@ -42,6 +44,7 @@
     {"roomId":{"name":"Room_Menu","path":"rooms/Room_Menu/Room_Menu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room_Settings","path":"rooms/Room_Settings/Room_Settings.yy",},},
+    {"roomId":{"name":"Room_PhaseSelection","path":"rooms/Room_PhaseSelection/Room_PhaseSelection.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
