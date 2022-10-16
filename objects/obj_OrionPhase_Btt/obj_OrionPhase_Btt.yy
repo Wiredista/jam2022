@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_CancerPhase_Btt",
-    "path": "sprites/spr_CancerPhase_Btt/spr_CancerPhase_Btt.yy",
+    "name": "spr_OrionPhase_Btt",
+    "path": "sprites/spr_OrionPhase_Btt/spr_OrionPhase_Btt.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_CancerPhase_Btt",
+  "name": "obj_OrionPhase_Btt",
   "tags": [],
   "resourceType": "GMObject",
 }
